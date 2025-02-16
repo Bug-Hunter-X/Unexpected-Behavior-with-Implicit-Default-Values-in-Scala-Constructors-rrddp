@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to implicit default values in Scala constructors. The `MyClass` example shows how an overloaded constructor with a default value can behave unexpectedly if the default value's initialization is not carefully considered. The solution provides a better approach to managing default values. The bug and solution are presented in Scala.
